@@ -214,7 +214,7 @@
     </library>
     <library name="Maven: com.lowagie:itext:2.1.7.js2">
       <CLASSES>
-        <root url="jar://D:/Java/apache-maven-3.0.4/repository/com/lowagie/itext/2.1.7.js2/itext-2.1.7.js2.jar!/" />
+        <root url="jar://D:/Java/apache-maven-3.0.4/repository/com/lowagie/itext/2.1.7.js2/iText-2.1.7.js2.jar!/" />
       </CLASSES>
       <JAVADOC>
         <root url="jar://D:/Java/apache-maven-3.0.4/repository/com/lowagie/itext/2.1.7.js2/itext-2.1.7.js2-javadoc.jar!/" />
@@ -322,15 +322,15 @@
         <root url="jar://D:/Java/apache-maven-3.0.4/repository/junit/junit/4.10/junit-4.10-sources.jar!/" />
       </SOURCES>
     </library>
-    <library name="Maven: net.sf.jasperreports:jasperreports:5.6.0">
+    <library name="Maven: net.sf.jasperreports:jasperreports:5.6.1">
       <CLASSES>
-        <root url="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.0/jasperreports-5.6.0.jar!/" />
+        <root url="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1.jar!/" />
       </CLASSES>
       <JAVADOC>
-        <root url="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.0/jasperreports-5.6.0-javadoc.jar!/" />
+        <root url="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-javadoc.jar!/" />
       </JAVADOC>
       <SOURCES>
-        <root url="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.0/jasperreports-5.6.0-sources.jar!/" />
+        <root url="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/" />
       </SOURCES>
     </library>
     <library name="Maven: org.apache.lucene:lucene-analyzers-common:4.5.1">
