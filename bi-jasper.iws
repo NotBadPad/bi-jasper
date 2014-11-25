@@ -2,15 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ffa2cca0-4928-4d4f-812a-903d46cc181b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/com/ubox/jasper/TestJasper.java" afterPath="$PROJECT_DIR$/src/test/java/com/ubox/jasper/TestJasper.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bi-jasper.iml" afterPath="$PROJECT_DIR$/bi-jasper.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bi-jasper.ipr" afterPath="$PROJECT_DIR$/bi-jasper.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bi-jasper.iws" afterPath="$PROJECT_DIR$/bi-jasper.iws" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
     </list>
     <ignored path="bi-jasper.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416286537180" ignored="false" />
+    <file path="/Dummy.txt" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416814779539" ignored="false" />
     <file path="/JasperMain.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416279135047" ignored="false" />
     <file path="/pom.xml" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416282722155" ignored="false" />
     <file path="/JasperOperater.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416279370308" ignored="false" />
-    <file path="/TestJasper.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416280093166" ignored="false" />
+    <file path="/TestJasper.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416823512993" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +29,6 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -62,6 +65,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -74,18 +78,16 @@
       <file leaf-file-name="JasperOperater.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ubox/jasper/JasperOperater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="15" column="13" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestJasper.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ubox/jasper/TestJasper.java">
+      <file leaf-file-name="JasperMain.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/ubox/jasper/JasperMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="81" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.79058826">
+            <state line="12" column="15" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,8 +98,83 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="64" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
+            <state line="43" column="64" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.0">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestJasper.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/ubox/jasper/TestJasper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="52" column="73" selection-start="1811" selection-end="1811" vertical-scroll-proportion="0.8369565">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DriverManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/sql/DriverManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="146" column="29" selection-start="5840" selection-end="5840" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#22899#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#12751#12759#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JRResultSetDataSource.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/engine/JRResultSetDataSource.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="102" column="70" selection-start="3359" selection-end="3424" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#15279#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#2867#2883#0" expanded="false" />
+                <element signature="e#3011#3030#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Window.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/awt/Window.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="854" column="25" selection-start="31026" selection-end="31036" vertical-scroll-proportion="-4.111111">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JasperDesignViewer.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/view/JasperDesignViewer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="85" column="7" selection-start="3556" selection-end="3556" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#0#8814#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JasperCompileManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/engine/JasperCompileManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="546" column="30" selection-start="20962" selection-end="20962" vertical-scroll-proportion="-7.4814816">
+              <folding>
+                <element signature="e#0#28136#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#25600#25630#1" expanded="false" />
+                <element signature="e#25995#26025#1" expanded="false" />
+                <element signature="e#26206#26236#1" expanded="false" />
+                <element signature="e#27952#27984#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -210,6 +287,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -241,11 +319,48 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bi-jasper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bi-jasper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jasper" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -261,11 +376,12 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RunManager" selected="JUnit.TestJasper.export">
     <configuration default="false" name="JasperMain" type="Application" factoryName="Application" temporary="true">
@@ -318,6 +434,90 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="TestJasper.createJasper" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ubox.jasper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="bi-jasper" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ubox.jasper" />
+      <option name="MAIN_CLASS_NAME" value="com.ubox.jasper.TestJasper" />
+      <option name="METHOD_NAME" value="createJasper" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestJasper.createJrprint" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ubox.jasper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="bi-jasper" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ubox.jasper" />
+      <option name="MAIN_CLASS_NAME" value="com.ubox.jasper.TestJasper" />
+      <option name="METHOD_NAME" value="createJrprint" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="TestJasper.viewJasper" type="JUnit" factoryName="JUnit" temporary="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.ubox.jasper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="bi-jasper" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.ubox.jasper" />
+      <option name="MAIN_CLASS_NAME" value="com.ubox.jasper.TestJasper" />
+      <option name="METHOD_NAME" value="viewJasper" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -330,6 +530,19 @@
       <option name="SHMEM_ADDRESS" value="javadebug" />
       <option name="HOST" value="localhost" />
       <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -358,19 +571,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -409,14 +609,20 @@
       <patterns />
       <method />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.JasperMain" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.TestJasper.export" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestJasper.createJasper" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestJasper.createJrprint" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestJasper.viewJasper" />
     </list>
     <recent_temporary>
-      <list size="2">
+      <list size="5">
         <item index="0" class="java.lang.String" itemvalue="JUnit.TestJasper.export" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JasperMain" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestJasper.createJrprint" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestJasper.viewJasper" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestJasper.createJasper" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JasperMain" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -457,17 +663,20 @@
       <created>1416286541093</created>
       <updated>1416286541093</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="预览测试">
+      <created>1416814783126</created>
+      <updated>1416814783126</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -480,13 +689,14 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13808802" sideWeight="0.7630252" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.09256449" sideWeight="0.70756304" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18968134" sideWeight="0.7630252" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23697479" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18968134" sideWeight="0.70756304" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.292437" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -533,7 +743,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="导出测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="预览测试" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -549,6 +759,7 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
     <MESSAGE value="初始化项目结构" />
     <MESSAGE value="导出测试" />
+    <MESSAGE value="预览测试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -558,67 +769,9 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubox/jasper/JasperMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="10" selection-start="217" selection-end="217" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bi-jasper.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="52" selection-start="744" selection-end="744" vertical-scroll-proportion="0.4864865" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bi-jasper.iws">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="43" selection-start="785" selection-end="785" vertical-scroll-proportion="-1.4594594" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="22" selection-start="55" selection-end="55" vertical-scroll-proportion="0.16216215">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1.jar!/net/sf/jasperreports/engine/JasperFillManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="62" selection-start="7123" selection-end="7182" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/engine/JasperFillManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="701" column="27" selection-start="23132" selection-end="23144" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/engine/JRExporterParameter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="57" selection-start="4378" selection-end="4397" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubox/jasper/JasperMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="15" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
+        <state line="117" column="57" selection-start="4378" selection-end="4397" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/export/SimpleExporterInput.java">
@@ -637,23 +790,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/ubox/jasper/JasperOperater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
+        <state line="15" column="13" selection-start="347" selection-end="347" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubox/jasper/JasperMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="15" selection-start="263" selection-end="263" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/engine/JasperCompileManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="546" column="30" selection-start="20962" selection-end="20962" vertical-scroll-proportion="-7.4814816">
+          <folding>
+            <element signature="e#0#28136#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#25600#25630#1" expanded="false" />
+            <element signature="e#25995#26025#1" expanded="false" />
+            <element signature="e#26206#26236#1" expanded="false" />
+            <element signature="e#27952#27984#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/view/JasperDesignViewer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="7" selection-start="3556" selection-end="3556" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#8814#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/awt/Window.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="854" column="25" selection-start="31026" selection-end="31036" vertical-scroll-proportion="-4.111111">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="64" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0">
+        <state line="43" column="64" selection-start="1439" selection-end="1439" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/sql/DriverManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="146" column="29" selection-start="5840" selection-end="5840" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#22899#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#12751#12759#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/engine/JRDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="91" selection-start="1323" selection-end="1323" vertical-scroll-proportion="0.43103448">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/engine/JRDataset.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="172" column="42" selection-start="6112" selection-end="6112" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/engine/JRDataSourceProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="17" selection-start="2290" selection-end="2290" vertical-scroll-proportion="0.33333334">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/engine/JRResultSetDataSource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="70" selection-start="3359" selection-end="3424" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#15279#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#2867#2883#0" expanded="false" />
+            <element signature="e#3011#3030#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/apache-maven-3.0.4/repository/net/sf/jasperreports/jasperreports/5.6.1/jasperreports-5.6.1-sources.jar!/net/sf/jasperreports/engine/JasperFillManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="677" column="19" selection-start="22639" selection-end="22639" vertical-scroll-proportion="0.33128834">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/ubox/jasper/TestJasper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="81" selection-start="1392" selection-end="1392" vertical-scroll-proportion="0.79058826">
+        <state line="52" column="73" selection-start="1811" selection-end="1811" vertical-scroll-proportion="0.8369565">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
