@@ -7,16 +7,50 @@
     </list>
     <ignored path="bi-jasper.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417084016822" ignored="false" />
+    <file path="/Dummy.txt" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417773061413" ignored="false" />
     <file path="/JasperMain.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416279135047" ignored="false" />
     <file path="/pom.xml" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416282722155" ignored="false" />
     <file path="/JasperOperater.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416279370308" ignored="false" />
     <file path="/TestJasper.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1416973678050" ignored="false" />
-    <file path="$PROJECT_DIR$/../hbase-solr/src/main/java/com/uboxol/hbase/coprocessor/SolrIndexCoprocessorObserver.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417084202360" ignored="false" />
+    <file path="$PROJECT_DIR$/../hbase-solr/src/main/java/com/uboxol/hbase/coprocessor/SolrIndexCoprocessorObserver.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417153331963" ignored="false" />
     <file path="/SolrIndexCoprocessorObserver.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417084165351" ignored="false" />
     <file path="$PROJECT_DIR$/../hbase-solr/src/main/java/com/uboxol/solr/SolrWriter.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417084213391" ignored="false" />
     <file path="$PROJECT_DIR$/../hbase-solr/pom.xml" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417084229779" ignored="false" />
     <file path="$PROJECT_DIR$/../hbase-solr/dependency-reduced-pom.xml" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417084314627" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/pom.xml" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/test/java/com/ubox/dw/dao/ReplenishDaoTest.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/test/java/com/ubox/dw/dao/VmSaleDaoTest.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/test/java/com/ubox/dw/dao/CupboardSaleReportDaoTest.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/test/java/com/ubox/dw/dao/ForecastsDaoTest.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/test/java/com/ubox/dw/dao/BaseDaoTest.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/test/java/com/ubox/dw/dao/ApidDaoTest.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/service/ReplenishService.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/test/java/com/ubox/dw/service/BaseServiceTest.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/job/ReplenishJob.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/model/ReplenishLog.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/dao/ApiDao.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/dao/ForecastsDao.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/dao/SmartOffDao.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/dao/ReplenishDao.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/dao/BaseDao.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/dao/CupboardSaleReportDao.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/dao/SupplyDao.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/job/SmartNodeJob.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/job/ForecastsJob.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/job/VmSaleJob.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/resources/jdbcPRO_LOCAL.properties" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/resources/applicationContext-resources.xml" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/test/java/com/ubox/dw/service/ReplenishServiceTest.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/dao/VmStatusDao.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/test/java/com/ubox/dw/dao/VmStatusDaoTest.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/test/java/com/ubox/dw/dao/SmartDaoTest.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/dao/VmSaleDao.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/utils/IdUtils.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/logs/dw-sync_rolling.log" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/webapp/controller/JsonController.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/webapp/controller/SupplyController.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/webapp/controller/CupboardSaleReportController.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
+    <file path="$PROJECT_DIR$/../dw_i/src/main/java/com/ubox/dw/webapp/controller/ApiController.java" changelist="ffa2cca0-4928-4d4f-812a-903d46cc181b" time="1417770553847" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,36 +114,16 @@
       <file leaf-file-name="JasperOperater.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/ubox/jasper/JasperOperater.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="29" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0">
+            <state line="22" column="58" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SimpleDateFormat.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/text/SimpleDateFormat.java">
+      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="472" column="11" selection-start="18679" selection-end="18679" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestJasper.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/ubox/jasper/TestJasper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="53" selection-start="2587" selection-end="2587" vertical-scroll-proportion="0.85865724">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Date.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/util/Date.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="864" column="16" selection-start="37265" selection-end="37265" vertical-scroll-proportion="0.0">
+            <state line="30" column="32" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -124,10 +138,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="Date.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/util/Date.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="47" selection-start="968" selection-end="968" vertical-scroll-proportion="0.0">
+            <state line="864" column="16" selection-start="37265" selection-end="37265" vertical-scroll-proportion="0.026501767">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SimpleDateFormat.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/text/SimpleDateFormat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="472" column="11" selection-start="18679" selection-end="18679" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -241,8 +264,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -647,7 +670,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -664,16 +687,16 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10015175" sideWeight="0.70756304" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.103186645" sideWeight="0.70756304" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18968134" sideWeight="0.70756304" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.292437" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3456376" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -801,16 +824,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubox/jasper/JasperOperater.java">
+    <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/text/SimpleDateFormat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="29" selection-start="722" selection-end="722" vertical-scroll-proportion="0.0">
+        <state line="472" column="11" selection-start="18679" selection-end="18679" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="47" selection-start="968" selection-end="968" vertical-scroll-proportion="0.0">
+        <state line="30" column="32" selection-start="1028" selection-end="1028" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -822,26 +845,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/util/Date.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/ubox/jasper/JasperOperater.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="864" column="16" selection-start="37265" selection-end="37265" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/text/SimpleDateFormat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="472" column="11" selection-start="18679" selection-end="18679" vertical-scroll-proportion="0.0">
+        <state line="22" column="58" selection-start="542" selection-end="542" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/ubox/jasper/TestJasper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="53" selection-start="2587" selection-end="2587" vertical-scroll-proportion="0.85865724">
+        <state line="80" column="62" selection-start="3053" selection-end="3053" vertical-scroll-proportion="0.39045936">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.6.0_45/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="864" column="16" selection-start="37265" selection-end="37265" vertical-scroll-proportion="0.026501767">
+          <folding />
         </state>
       </provider>
     </entry>

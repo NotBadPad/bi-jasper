@@ -50,16 +50,16 @@ public class TestJasper {
 
     @Test
     public void createJrprint() {
-        String sourceFileName = "E:\\workspace\\java\\bi-jasper\\data\\Invoice.jasper";
-        Map parameters = new HashMap();
-        try {
-            Class.forName("com.mysql.jdbc.Driver");
-            Connection con = DriverManager.getConnection("jdbc:mysql://192.168.8.73:3306/workflow?autocommit=true&charset=utf8", "workflow", "vRiOQXLdAzDYF65p7Uv8");
-
-            JasperFillManager.fillReportToFile(sourceFileName, parameters, con);
-        } catch (Exception e) {
-            e.printStackTrace();
-        }
+//        String sourceFileName = "E:\\workspace\\java\\bi-jasper\\data\\Invoice.jasper";
+//        Map parameters = new HashMap();
+//        try {
+//            Class.forName("com.mysql.jdbc.Driver");
+////            Connection con = DriverManager.getConnection("jdbc:mysql://192.168.8.73:3306/workflow?autocommit=true&charset=utf8", "workflow", "");
+//
+//            JasperFillManager.fillReportToFile(sourceFileName, parameters, con);
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
     }
 
     @Test
